@@ -1,0 +1,80 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #1b1642;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Epilogue', sans-serif;
+}
+
+.page-section {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.btn.btn-primary {
+    background-color: #1bd3c6 !important;
+    border-color: transparent;
+    box-shadow: none;
+    color: #1b1642 !important;
+}
+
+.btn.btn-outline-secondary {
+    border-color: #ffffff;
+    box-shadow: none;
+    color: #ffffff;
+}
+
+nav.navbar {
+    background: #1b1642;
+    padding: 20px 30px;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.nav-item a {
+    color: #ffffff !important;
+}
+
+.nav-left-margin {
+    margin-left: 50px;
+}
+
+.navbar-dark .navbar-toggler {
+    border: none;
+    color: #ffffff;
+}
+
+#hero {
+    background-color: #1b1642;
+    padding: 175px 20px;
+}
+
+#hero * {
+    color: #ffffff;
+}
+
+#hero h1 {
+    font-size: 64px;
+}
+
+.display-3,
+.display-4 {
+    font-weight: 700;
+}
+
+#hero .lead {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.lead .bolder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+h2,
+.h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
